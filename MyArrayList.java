@@ -44,6 +44,12 @@ public void checkChar(char a, char c, char b)
 	charcheck[3]='I';
 	charcheck[4]='N';
 	
+	/*charcheck[0] = 'A';
+	charcheck[1] = 'D';
+	charcheck[2]='M';
+	charcheck[3]='I';
+	charcheck[4]='N'; */
+	
 	
 	
  char[] checkArray ={'A','B','C'};
